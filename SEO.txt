@@ -1,0 +1,35 @@
+1 Créer du bon contenu, cohérent en rapport avec le Titre du Site Web.
+      - 400 mots par page minimum
+      - Garder un contenu à jour 
+      - Ne pas répéter toujours les mêmes choses
+      - Ne pas faire une page d'intro avant le Site, mise à part si elle contien un peu de texte et une
+      navigation.
+      - Pas de lien, et ou Boutton : "cliquez ici" ou "en savoir plus"
+      - Penser à être local (préciser ville, quartier, region), le robot privilégie les choses locales. 
+      Mettre .fr si votre site n'est destiné qu'à la France, .en pour l'Angleterre, .ru pour la russie etc.
+
+2 - Site rapide et Responcive (performant)
+      - Le robot teste le temps de chargement
+      - Il faut que le JS soit lu en dernier
+      - Il faut faire apparaitre le plus vite possible une couleur de fond
+      - Privilégier les images depuis le CSS (et non pas la balise IMG)
+      - Les sites en React.js sont de plus en plus populaires pour leur fluidité et rapidité justement.
+      - Enfin il vous faut un site Responcive (addapté à tout les écrans) je dirais au moins les
+      smartphone, androïdes et écran PC Fixe et Portable de 14 à 27 pouces.
+      - Je ferais surement une vidéo sur le Responcive car en réalité ça prend environs 
+      6 moins à 1 ans pour faire un site addapté à tout ces supports.
+
+3 - Title, Meta et Open Graph
+      - La Balise Title peut contenir beaucoup de caractères, et Google en reconnais 70 (espaces compris), 
+      il est important dans écrire au moins ce nombre pour être bien référencer.
+      - La Meta description et la deuxième balise la plus importante, elle doit bien expliqué ce que le site propose et aller à l'essentiel,
+      elle peut être très longue, cependant je vous recommande de ne pas dépasser les 160 caractères.
+      - Les Open Graph ; c'est l'autre chose très importante, 
+      je vous met le lien du site officiel ici : https://ogp.me/ 
+      - Pour Tester open graph : https://cards-dev.twitter.com/validator 
+
+
+Tester son SEO : plugin "Lighthouse"
+
+Doc SEO
+https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=fr 
